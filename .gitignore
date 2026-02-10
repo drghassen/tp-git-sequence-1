@@ -1,0 +1,8 @@
+# Fichiers objets
+*.o
+
+# Exécutable
+bienvenue
+
+# Fichiers temporaires
+*~
